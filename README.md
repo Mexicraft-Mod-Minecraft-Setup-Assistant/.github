@@ -35,13 +35,14 @@
 
 | Screenshot | Caption |
 |------------|---------|
-| ![Colorful village with papel picado](https://www.9minecraft.net/wp-content/uploads/2021/04/Mexicraft-Mod-Screenshots-11.jpg) | **Papel picado** banners over a village street |
-| ![Festival traders and xoloitzcuintli](https://media.forgecdn.net/avatars/346/938/637488880608606387.png) | Festival traders & **xoloitzcuintli** companion |
-| ![Hand-painted tiles & skull blocks](https://i.redd.it/7h3wmry1yv551.png) | Hand-painted **talavera** tiles & skull blocks |
-| ![Food items in inventory](https://minecraftch.ru/uploads/posts/2020-10/1603558673_mexicraft-mod-screenshot-1.jpg) | New **culinary items** ready for crafting |
+| ![Colorful village with papel picado](https://media.forgecdn.net/attachments/354/894/foto-07-04-21-2-11-35-p.png) | **Papel picado** banners over a village street |
+| ![Festival traders and xoloitzcuintli](https://media.forgecdn.net/attachments/354/895/foto-07-04-21-12-09-32-p.png) | Festival traders & **xoloitzcuintli** companion |
+| ![Hand-painted tiles & skull blocks](https://media.forgecdn.net/attachments/354/896/foto-07-04-21-12-28-23-p.png) | Hand-painted **talavera** tiles & skull blocks |
+| ![Food items in inventory](https://media.forgecdn.net/attachments/354/899/foto-07-04-21-12-36-30-p.png) | New **culinary items** ready for crafting |
 
 *(All screenshots belong to the original Mexicraft authors; used here under fair-use for documentation.)*
 
 ---
 
 ## 🔍 SEO Keywords
+mexicraft offline install, minecraft mexicraft mod setup, mexican culture blocks mod, air-gapped deployment, no curseforge login, forge 1.16.5 mexican mod, mexican food items minecraft, papel picado banner block, mexicraft installation assistant, LAN party friendly mod
